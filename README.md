@@ -1,16 +1,10 @@
 # black_hole_animation
+Made by this tutorial article: https://itnext.io/learn-flutter-animation-by-doing-build-complex-animations-the-simple-way-d580bdf35221
 
-A new Flutter project.
+Video of the project animation: 
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+https://github.com/sofiabukovskaya/card_and_black_hole_animation/assets/69693280/5a92ec48-aa51-46ff-af28-f253df02ded5
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
